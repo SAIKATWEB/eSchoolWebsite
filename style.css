@@ -1,0 +1,97 @@
+body{
+    border: 0;
+    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Rubik', sans-serif; */
+}
+
+.top_section{
+    background: #F0FFF0;
+    padding-bottom: 50px;
+}
+.top_section ul li a{
+    margin-right: 25px;
+    color: #000;
+}
+a.sign_btn{
+    text-decoration: none;
+    background: #21B573;
+    padding: 10px 20px;
+    border-radius: 25px;
+    color: #fff;
+}
+
+.banner h5{
+    color: #FD511A;
+    font-size: 16px;
+}
+.banner h1{
+    font-weight: bold;
+}
+.banner .greenColor{
+    color: #21B573;
+}
+.banner p{
+    color: #6C6B6B;
+    line-height: 40px;
+    margin-top: 10px;
+}
+.box p{
+    color: #585859;
+}
+.slider_section{
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+.box{
+    background: #F8FFFB;
+    padding: 30px 15px;
+    border-radius: 10px;
+}
+.box:hover{
+    background: #fff;
+    box-shadow: 5px 5px 25px lightgray, -5px -5px 25px lightgray;
+}
+
+.online_courses{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.online-courses h2{
+    color: #413960;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 20px lightgray, -5px -5px 20px lightgray;
+    border-radius: 15px;
+}
+.card img{
+    padding: 20px;
+}
+.card-footer{
+    border: none;
+    background: none;
+}
+.card-footer i{
+    color: #606060;
+}
+
+.testimonital{
+    padding-top: 50px;
+    padding-bottom: 80px;
+}
+.testimonital h2{
+    color: #413960;
+}
+
+footer{
+    padding-top: 50px;
+    background: #282531;
+    color: #fff;
+}
+footer ul li:first-child{
+    font-size: 18px;
+    font-weight: bold;
+}
+footer p{
+    color: #CDCDCD;
+}
